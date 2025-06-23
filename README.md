@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" alt="Dancing cat"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3htM3ZsdDR4cThkcGZibnJrMzN4NnBka2lteDU4NjVqc3BvczVkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="200px" alt="Dancing cat"/>
 </p>
 
 <div align="center">
