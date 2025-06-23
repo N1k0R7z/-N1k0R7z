@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200px" alt="Funny worm"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" alt="Dancing cat"/>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px" />
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="360px" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200px" />
 </p>
 
 ---
