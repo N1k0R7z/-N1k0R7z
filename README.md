@@ -1,54 +1,54 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3AFF00&center=true&vCenter=true&width=435&lines=Hi+I'm+N1k0R7z!;Welcome+to+My+Jungle+of+Code!;Grab+your+machete+%E2%80%94+it's+gonna+be+wild!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FF90&center=true&vCenter=true&width=500&lines=Hi+I'm+N1k0R7z!;Welcome+to+my+GitHub+space!;Exploring+code,+Linux+,+and+cool+stuff" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250px" alt="Funny worm"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200px" alt="Funny worm"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30FF00&vCenter=true&multiline=true&width=600&height=80&lines=Jungle+Dev.;Forest+Wizard.;Coding+Worm+Commander." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFA0&vCenter=true&multiline=true&width=500&height=80&lines=Code+Explorer;Linux+Tinkerer;Always+Learning..." />
 </div>
 
 ---
 
 <h2 align="center">
-  <strong style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">🌳 Welcome to the Jungle, Baby 🌳</strong>
+  <strong style="color: #00ff90; text-shadow: 0 0 5px #00ff90;">🌿 Personal GitHub Zone 🌿</strong>
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌿-Forest%20Mode-brightgreen" />
-  <img src="https://img.shields.io/badge/Worm%20Status-Crawling%20Strong-9cf" />
+  <img src="https://img.shields.io/badge/Theme-Green%20Minimal-brightgreen" />
+  <img src="https://img.shields.io/badge/Status-Active-blue" />
   <img src="https://img.shields.io/github/followers/N1k0R7z?label=Followers&style=social" />
 </p>
 
 ---
 
 <h3 align="center">
-  🐛 <b>Fun Features:</b>
+  🛠️ <b>What I Do:</b>
 </h3>
 
 <ul>
-  <li>🌱 Jungle vibes everywhere (code & life)</li>
-  <li>🐍 Fluent in Python, JavaScript, and snake charming</li>
-  <li>🌿 Custom Linux setups that grow like vines</li>
-  <li>🦎 Eats bugs (in code) for breakfast</li>
+  <li>🌱 Open-source & Linux experiments</li>
+  <li>💡 Tinkering with Python, JavaScript, Shell</li>
+  <li>⚙️ Minimalist, efficient workflow lover</li>
+  <li>🎮 Exploring games and game dev tools</li>
 </ul>
 
 ---
 
-<h3 align="center">🧠 Tech I Use:</h3>
+<h3 align="center">⚙️ Tech Stack:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,git,neovim,react,nodejs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,git,neovim,react,nodejs&perline=6" />
 </p>
 
 ---
 
-<h3 align="center">📊 My GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N1k0R7z&show_icons=true&theme=gruvbox&hide_border=true" />
   <br>
@@ -57,18 +57,18 @@
 
 ---
 
-<h3 align="center">🌌 Currently Exploring:</h3>
+<h3 align="center">📌 Currently Exploring:</h3>
 <p align="center">
-  Rust • AI & LLMs • Gaming on Linux • Worm Physics Simulations
+  Linux ricing • Open-source contributions • AI tools • Lightweight systems
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
 </p>
 
 ---
 
-<h3 align="center">💬 Contact me in the bushes (or):</h3>
+<h3 align="center">📬 Reach Me:</h3>
 <p align="center">
   <a href="https://github.com/N1k0R7z"><img src="https://img.shields.io/badge/GitHub-N1k0R7z-black?style=for-the-badge&logo=github"></a>
 </p>
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <strong style="color:lime; text-shadow: 0 0 8px lime;">“Code like a beast, debug like a worm.” 🐛</strong>
+  <strong style="color:lime; text-shadow: 0 0 8px lime;">"Stay curious. Keep building."</strong>
 </p>
