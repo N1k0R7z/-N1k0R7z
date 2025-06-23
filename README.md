@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="360px" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="360px" alt="More dancing cats"/>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif" width="200px" alt="Chill dancing cat"/>
 </p>
 
 ---
